@@ -1,4 +1,4 @@
-# deep-learning-challenge
+# Alphabet Soup Funding Neural Network
 
 
 
